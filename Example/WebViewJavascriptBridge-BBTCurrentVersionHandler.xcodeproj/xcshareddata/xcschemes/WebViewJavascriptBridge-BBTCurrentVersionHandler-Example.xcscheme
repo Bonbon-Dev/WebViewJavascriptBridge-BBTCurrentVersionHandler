@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
-               BlueprintName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
-               ReferencedContainer = "container:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+               BuildableName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
+               BlueprintName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
+               ReferencedContainer = "container:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Tests.xctest"
-               BlueprintName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Tests"
-               ReferencedContainer = "container:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+               BuildableName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Tests.xctest"
+               BlueprintName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Tests"
+               ReferencedContainer = "container:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
-            BlueprintName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
-            ReferencedContainer = "container:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+            BuildableName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
+            BlueprintName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
+            ReferencedContainer = "container:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
-            BlueprintName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
-            ReferencedContainer = "container:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+            BuildableName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
+            BlueprintName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
+            ReferencedContainer = "container:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
-            BlueprintName = "WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
-            ReferencedContainer = "container:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+            BuildableName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example.app"
+            BlueprintName = "WebViewJavascriptBridge-BBTCurrentVersionHandler_Example"
+            ReferencedContainer = "container:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

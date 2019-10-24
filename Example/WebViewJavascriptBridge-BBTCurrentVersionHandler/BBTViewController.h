@@ -1,6 +1,6 @@
 //
 //  BBTViewController.h
-//  WKWebViewJavascriptBridge-BBTCurrentVersionHandler
+//  WebViewJavascriptBridge-BBTCurrentVersionHandler
 //
 //  Created by AndyM129 on 10/24/2019.
 //  Copyright (c) 2019 AndyM129. All rights reserved.

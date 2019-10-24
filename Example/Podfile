@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Example' do
-  pod 'WKWebViewJavascriptBridge-BBTCurrentVersionHandler', :path => '../'
+target 'WebViewJavascriptBridge-BBTCurrentVersionHandler_Example' do
+  pod 'WebViewJavascriptBridge-BBTCurrentVersionHandler', :path => '../'
 
-  target 'WKWebViewJavascriptBridge-BBTCurrentVersionHandler_Tests' do
+  target 'WebViewJavascriptBridge-BBTCurrentVersionHandler_Tests' do
     inherit! :search_paths
 
     

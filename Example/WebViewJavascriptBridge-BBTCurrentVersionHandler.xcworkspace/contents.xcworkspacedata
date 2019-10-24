@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:WKWebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
+      location = "group:WebViewJavascriptBridge-BBTCurrentVersionHandler.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
